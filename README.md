@@ -31,7 +31,7 @@ def preOrder(root):
 5. [Merge Two Tree](./challenge5.md)
 
 ---
-[................]()
+6. [Uni Valid](./challenge6.md)
 
 ---
 [................]()
@@ -52,3 +52,7 @@ def preOrder(root):
 [................]()
 
 ---
+> uni valid
+> sum odd value
+> Contain (dublicate value)
+> 
