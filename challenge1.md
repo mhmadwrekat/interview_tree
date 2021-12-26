@@ -73,7 +73,7 @@ def isSubtree(T, S) :
         return True
     if T is None:
         return False
-    if (areIdentical(T, S)):
+    if (areIdentical(T, S)) :
         return True
     return isSubtree(T.left, S) or isSubtree(T.right, S)
 ```
@@ -85,5 +85,3 @@ def isSubtree(T, S) :
 
 ---
 ## [Back](./README.md)
-
----

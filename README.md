@@ -4,7 +4,7 @@
 [check if a binary tree is subtree of another binary tree](./challenge1.md)
 
 ---
-[................]()
+[invert binary tree](./challenge2.md)
 
 ---
 [................]()
