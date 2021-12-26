@@ -1,19 +1,34 @@
 # interview_tree
 
 ---
-[Check If a Binary Tree Is Subtree Of Another Binary Tree](./challenge1.md)
+```
+// pre order -> root / left / right
+
+def preOrder(root):
+  output = []
+  if not root :
+    return []
+  def traverse(root) :
+    if root :
+      output.append(root.value)
+      traverse(root.left)
+      traverse(root.right)
+```
 
 ---
-[Invert Binary Tree](./challenge2.md)
+1. [Check If a Binary Tree Is Subtree Of Another Binary Tree](./challenge1.md)
 
 ---
-[Check If They Are The Same Or Not](./challenge3.md)
+2. [Invert Binary Tree](./challenge2.md)
 
 ---
-[Check Is Symmetric 'Mirror'](./challenge4.md)
+3. [Check If They Are The Same Or Not](./challenge3.md)
 
 ---
-[................]()
+4. [Check Is Symmetric 'Mirror'](./challenge4.md)
+
+---
+5. [Merge Two Tree](./challenge5.md)
 
 ---
 [................]()
