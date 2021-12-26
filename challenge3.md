@@ -1,5 +1,5 @@
 ## Problem Domain
-we need takes two tree as argument and check if they are the same or not 
+we need function takes two tree as argument and check if they are the same or not 
 
 ---
 - input : Two Tree

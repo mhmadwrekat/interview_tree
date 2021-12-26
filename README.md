@@ -1,16 +1,16 @@
 # interview_tree
 
 ---
-[check if a binary tree is subtree of another binary tree](./challenge1.md)
+[Check If a Binary Tree Is Subtree Of Another Binary Tree](./challenge1.md)
 
 ---
-[invert binary tree](./challenge2.md)
+[Invert Binary Tree](./challenge2.md)
 
 ---
-[check if they are the same or not](./challenge3.md)
+[Check If They Are The Same Or Not](./challenge3.md)
 
 ---
-[................]()
+[Check Is Symmetric 'Mirror'](./challenge4.md)
 
 ---
 [................]()
