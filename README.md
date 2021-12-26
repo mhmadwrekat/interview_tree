@@ -7,7 +7,7 @@
 [invert binary tree](./challenge2.md)
 
 ---
-[................]()
+[check if they are the same or not](./challenge3.md)
 
 ---
 [................]()
