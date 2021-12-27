@@ -16,31 +16,31 @@ def preOrder(root):
 ```
 
 ---
-1. [Check If a Binary Tree Is Subtree Of Another Binary Tree](./challenge1.md)
+A. [Check If a Binary Tree **Is Subtree** Of Another Binary Tree](./challenge1.md)
 
 ---
-2. [Invert Binary Tree](./challenge2.md)
+B. [**Invert** Binary Tree](./challenge2.md)
 
 ---
-3. [Check If They Are The Same Or Not](./challenge3.md)
+C. [Check If They Are **The Same** Or Not](./challenge3.md)
 
 ---
-4. [Check Is Symmetric 'Mirror'](./challenge4.md)
+D. [Check Is **Symmetric** 'Mirror'](./challenge4.md)
 
 ---
-5. [Merge Two Tree](./challenge5.md)
+E. [**Merge** Two Tree](./challenge5.md)
 
 ---
-6. [Uni Valid](./challenge6.md)
+F. [Uni Valid](./challenge6.md)
 
 ---
-7. [has duplicate values](./challenge7.md)
+G. [has **duplicate** values](./challenge7.md)
 
 ---
-8. [Sum of all nodes in tree](./challenge8.md)
+H. [Sum of all **nodes** in tree](./challenge8.md)
 
 ---
-[................]()
+I. [Sum of all **Leaves** in tree](./challenge9.md)
 
 ---
 [................]()
