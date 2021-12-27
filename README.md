@@ -52,3 +52,27 @@ K. [Has **Path**](./challenge11.md)
 L. [Breadth First](./challenge12.md)
 
 ---
+M. [**Largest** Number In Tree](./challenge13.md)
+
+---
+N. [**Minimum** Number In Tree](./challenge14.md)
+
+---
+O. [............]()
+
+---
+P. [............]()
+
+---
+Q. [............]()
+
+---
+R. [............]()
+
+---
+S. [............]()
+
+---
+T. [............]()
+
+---
