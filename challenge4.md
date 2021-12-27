@@ -66,7 +66,7 @@ def symmetric(tree) :
                 return (mirror(r1.left, r2.right) and mirror(r1.right, r2.left) )
         return False
 
-    return symmetric(tree.root, tree.root)
+    return mirror(tree.root, tree.root)
 ```
 
 ---
