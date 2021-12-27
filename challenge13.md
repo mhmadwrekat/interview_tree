@@ -44,7 +44,7 @@ Output :
 def findMax(root):
     if (root == None):
         return 0
-    res = root.data
+    res = root.value
     lres = findMax(root.left)
     rres = findMax(root.right)
     if (lres > res):

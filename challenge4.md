@@ -52,7 +52,7 @@ Output :
 - check if r1 and r2 is not none ->
 - check if r1.val equal r2.val -> return f2(r1.left, r2.right) and f2(r1.right, r2.left)
 - return False
-- f1 -> return f1(root, root)
+- f1 -> return f2(root, root)
 
 ---
 ## Code :
