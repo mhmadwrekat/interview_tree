@@ -34,7 +34,7 @@ def preOrder(root):
 6. [Uni Valid](./challenge6.md)
 
 ---
-[................]()
+7. [has duplicate values](./challenge7.md)
 
 ---
 [................]()
@@ -52,7 +52,6 @@ def preOrder(root):
 [................]()
 
 ---
-> uni valid
 > sum odd value
 > Contain (dublicate value)
 > 
