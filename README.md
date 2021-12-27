@@ -37,7 +37,7 @@ def preOrder(root):
 7. [has duplicate values](./challenge7.md)
 
 ---
-[................]()
+8. [Sum of all nodes in tree](./challenge8.md)
 
 ---
 [................]()
@@ -53,5 +53,4 @@ def preOrder(root):
 
 ---
 > sum odd value
-> Contain (dublicate value)
 > 
