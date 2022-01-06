@@ -1,21 +1,6 @@
 # interview_tree
 
 ---
-```
-// pre order -> root / left / right
-
-def preOrder(root):
-  output = []
-  if not root :
-    return []
-  def traverse(root) :
-    if root :
-      output.append(root.value)
-      traverse(root.left)
-      traverse(root.right)
-```
-
----
 A. [Check If a Binary Tree **Is Subtree** Of Another Binary Tree](./challenge1.md)
 
 ---
@@ -62,17 +47,5 @@ O. [Check If BT or BST](./challenge15.md)
 
 ---
 P. [**Second Largest** value in BTS](./challenge16.md)
-
----
-Q. [............]()
-
----
-R. [............]()
-
----
-S. [............]()
-
----
-T. [............]()
 
 ---
